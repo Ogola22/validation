@@ -1,0 +1,23 @@
+
+.container{
+    height: 630px;
+    width: 40%;
+    margin-top: 20px;
+    border: 1px solid blue;
+    position: relative;
+    display: grid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+h1{
+    color: navy;
+    text-align: center;
+    border-bottom: 1px solid #808080;
+}
+label{
+    color: blueviolet;
+}
+input{
+    border: none;
+    border-bottom: 2px solid #ffa500;
+}
